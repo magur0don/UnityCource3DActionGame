@@ -9,6 +9,5 @@ public class CharacterAttackJudge : MonoBehaviour
         if (other.name.Equals("UnityCource2020")) {
             return;
         }
-        Debug.Log(other.name);
     }
 }
